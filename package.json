@@ -1,0 +1,24 @@
+{
+  "name": "first-dapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "interact.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dapp",
+    "ethereum",
+    "smart-contracts"
+  ],
+  "author": "Rishabh Gupta",
+  "license": "MIT",
+  "dependencies": {
+    "web3": "^1.6.0",
+    "truffle": "^5.4.0"
+  }
+}
